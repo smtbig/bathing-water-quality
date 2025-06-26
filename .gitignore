@@ -1,0 +1,25 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files you don't want to track (optional)
+*.csv
+*.xlsx
+*.json
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environments
+env/
+venv/
+.venv/
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.swp
